@@ -1,7 +1,7 @@
 # 摘要
 
-* [Why Mac?](chapter1/README.md)
-    * [Comments](chapter1/choose_your_mac.md)
-* [Mac环境设置](chapter2/README.md)
-    * [XCode](chatper2/xcode.md)
-    * [Brew](chatper2/brew.md)
+* [Why Mac?](why_mac/README.md)
+    * [Comments](why_mac/choose_your_mac.md)
+* [Mac环境设置](mac_env_setup/README.md)
+    * [XCode](mac_env_setup/xcode.md)
+    * [Brew](mac_env_setup/brew.md)
