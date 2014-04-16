@@ -1,4 +1,3 @@
-java_developer_on_mac
-=====================
-
-Java Developer on Mac
+Java Developer On Mac
+=====================================
+一本介绍Java程序员如何在Mac下开发的图书
