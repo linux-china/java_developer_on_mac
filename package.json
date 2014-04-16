@@ -1,0 +1,21 @@
+{
+    "name": "Java Developer on Mac",
+    "version": "0.0.1",
+    "description": "Java Developer on Mac",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/linux-china/java_developer_on_mac.git"
+    },
+    "author": "linux_china <linux_china@hotmail.com>",
+    "license": "Apache 2",
+    "dependencies": {},
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-gitbook": "0.2.0",
+        "grunt-gh-pages": "0.9.1",
+        "grunt-contrib-clean": "~0.5.0"
+    },
+    "peerDependencies": {
+        "grunt": "~0.4.1"
+    }
+}
